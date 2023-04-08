@@ -1,5 +1,7 @@
-nome = 'Andre'  
-sobrenome = 'Campos'
-idade = '23'
+#Variaveis Com dados fixos
+nome = 'Andre'
+sobre_nome = 'Aldeia'
+idade = 25
 
-print(nome, sobrenome, idade)
+#Print imprimindo valor das variaveis
+print(nome, sobre_nome, idade)

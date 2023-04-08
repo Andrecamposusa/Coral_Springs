@@ -3,4 +3,4 @@ n2 = int(input('Digite o numero '))
 
 soma = n1 + n2
 
-print("A soma entre {} e entre {} e o resultado de {}".format(n1, n2, soma))
+print("o primeiro numero digitado foi {} o segundo numero digitado foi {} o resultado da soma e independente{}".format(n1, n2, soma))

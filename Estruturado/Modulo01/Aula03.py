@@ -1,5 +1,5 @@
-nome = input('digite seu nome :>')
-sobrenome = input('digite seu sobrenome :>')
-idade = int(input('digite sua idade'))
+nome = str(input("Digite o  nome:>  "))
+sobrenome = str(input("Digite o  Sobrenome:> "))
+idade = int(input("idade:> "))
 
-print(idade, sobrenome, nome)
+print(nome, sobrenome, idade)
